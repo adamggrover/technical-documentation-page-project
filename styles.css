@@ -1,7 +1,4 @@
-#main-container{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+#main-container{    
     color: whitesmoke;
     font-family: 'Poppins', sans-serif;
     display: flex;
@@ -14,6 +11,9 @@ a{
 
 body{
     background-color: rgb(17, 13, 83); 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     
 }
 
