@@ -57,6 +57,15 @@ header{
     flex-direction: column;
 }
 
+p{
+    margin: 1rem 0 1rem 0;
+}
+
+code{
+    background-color: rgb(10, 9, 9);
+    padding: 0.8rem 1.2rem;
+    
+}
 @media only screen and (max-width: 700px) {
     #main-container {
       display: flex;
